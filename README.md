@@ -1,44 +1,50 @@
+# Hi, I'm Snehal Kanpariya 👋
 
-# Hi, I'm Snehal Kanpariya
+I'm an MCA student and Full-Stack Developer passionate about building robust backend systems and modern web applications. Originally rooted in Python and Django, I am currently expanding my expertise into the **MERN Stack** to build high-performance, full-stack JavaScript applications. 
 
-I'm a Django developer and MCA student, passionate about backend development and building real-world web applications. I enjoy writing clean, efficient code and learning new technologies that help solve real problems.
+---
 
-## About Me
-- 🎓 MCA student with a BCA background
-- 🧠 Strong interest in backend development, Python, and web technologies
-- 🔍 Exploring AI/ML and full-stack development
-- 💼 Completed projects: Cake Shop Web App, Blood Bank Inventory System
+### 💻 About Me
 
-## Tech Stack
-- **Languages:** Python, C, C++, HTML, CSS, SQL
-- **Frameworks:** Django, Bootstrap
-- **Tools:** Git, GitHub, VS Code, MySQL
+* 🎓 **Education:** MCA student with a strong BCA foundation.
+* 🚀 **Current Focus:** Transitioning into a Full-Stack MERN Developer while leveraging my backend experience.
+* 🧠 **Interests:** Scalable web architectures, RESTful APIs, and database optimization.
+* 💼 **Completed Projects:** E-Commerce Cake Shop, Blood Bank Inventory System.
 
-## Projects
-- **Cake Shop Website** – Django-based website with user login, product catalog, and admin panel
-- **Blood Bank Inventory System** – Windows-based system using C# and database integration
+---
 
-## Learning Goals
-- Advance my Django skills with REST APIs
-- Build AI/ML projects using Python
-- Explore ethical hacking and cybersecurity fundamentals
+### 🛠️ Tech Stack
 
-## Contact Me
-- **Email:** snehalkanpariya@gmail.com
-- **LinkedIn:* https://www.linkedin.com/in/snehalkanpariya
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, HTML5, CSS3, JavaScript (ES6+), Bootstrap |
+| **Backend & Frameworks** | Node.js, Express.js, Django (Python) |
+| **Databases** | MongoDB, MySQL, SQL |
+| **Languages & Tools** | Python, C/C++, Git, GitHub, VS Code |
 
-Thanks for visiting my profile. I’m always open to collaboration and learning new things!
-<!--
-**snehalkanpariya/snehalkanpariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📚 Current Learning Goals (The MERN Journey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌐 **React.js:** Mastering component architecture, hooks, and responsive UI design.
+* 🟢 **Node.js & Express:** Transitioning my backend logic and routing skills from Django to JavaScript.
+* 🍃 **MongoDB:** Learning NoSQL database modeling and aggregation pipelines.
+* 🔌 **API Integration:** Building and consuming secure RESTful APIs across both Python and JS ecosystems.
+
+---
+
+### 📁 Featured Projects
+
+* **Cake Shop Website** – A Django-based e-commerce platform featuring user authentication, a dynamic product catalog, and an intuitive admin panel.
+* **Blood Bank Inventory System** – A robust Windows-based desktop application utilizing C# and database integration.
+* *⌛ MERN projects coming soon as I build out my learning lab!*
+
+---
+
+### 📬 Connect With Me
+
+* 📧 **Email:** [snehalkanpariya@gmail.com](mailto:snehalkanpariya@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/snehalkanpariya](https://www.linkedin.com/in/snehalkanpariya)
+
+---
+*Thank you for visiting my profile! I am always open to learning, networking, and collaborating on exciting open-source or full-stack projects.* 🚀
